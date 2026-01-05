@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Abbas</h1>
-<h3 align="center">A passionate software developer (MERN)</h3>
+<h3 align="center">I'm a software developer (MERN)</h3>
+<div> 
+  <div class="background: white;" align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  </div> 
+</div>
 
-- In my last role I was working as a Front-end Developer on  a **B2B SaaS product, launched by GBL as a platform for worker engagement and communication.**
-
-- I’m currently gaining expertise in **Node.js, Express.js, MongoDB**
 
 - I have extensive experience with **React.js, Next.js, PostgreSQL, TypeScript, HTML, CSS and its frameworks, etc.**
 
