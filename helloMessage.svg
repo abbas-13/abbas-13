@@ -39,6 +39,7 @@
           height: 300px;
 
           display: flex;
+          flex-direction: column;
           justify-content: center;
           align-items: center;
           color: white;
@@ -73,7 +74,8 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+        <h1>Hi! I'm Abbas <div class="hi">👋</div></h1>
+        <h1>and I'm a Software Developer</h1>
       </div>
     </div>
   </foreignObject>
