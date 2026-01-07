@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 🔭 With **2.5 years of experience** in IT, I've spent the last 1.5 years honing my craft as a **Front-End/React Developer**, now expanding into full-stack.
+- 🔭 With **2.5 years of professional experience**, I've been honing my craft as a **Software Developer**.
 - 🌱 I’m currently deepening my knowledge in **cloud architecture (Azure/AWS)** and **backend performance optimization**.
 - 👯 I’m looking to collaborate on impactful **open-source projects** or innovative **SaaS products**.
 - 💬 Ask me about **React, TypeScript, state management headaches, or bridging the gap between design and development**.
